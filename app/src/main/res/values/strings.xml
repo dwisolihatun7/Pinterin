@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pinter.id</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="scan">Scan</string>
+    <string name="scan_description">Scan kode untuk print dokumen</string>
+    <string name="pickup_code">Pick Up Code</string>
+    <string name="pickup_code_description">Kode unik untuk print secara offline </string>
+    <string name="voucher">Voucher</string>
+    <string name="voucher_description">kode unik untuk print secara offline</string>
+    <string name="upload_file">Upload File</string>
+    <string name="upload_file_description">Upload file yang akan anda print</string>
+    <string name="cetak_cloud">Cetak dari Cloud</string>
+    <string name="cetak_cloud_description">Print dari file yang tersimpan di Google Cloud</string>
+    <string name="payment">Payment</string>
+    <string name="payment_description">metode pembayaran yang bisa digunakan</string>
+    <string name="gopay_description">Pembayaran menggunakan Gopay</string>
+    <string name="dana_description">Pembayaran menggunakan Dana</string>
+    <string name="email">dwisolihatun7@gmail.com</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="HelpCenter">Help Center</string>
+    <string name="position">Position the QR Code within the frame</string>
+</resources>
