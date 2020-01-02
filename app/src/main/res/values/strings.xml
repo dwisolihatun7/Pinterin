@@ -27,4 +27,13 @@
     <string name="setting">Setting</string>
     <string name="HelpCenter">Help Center</string>
     <string name="position">Position the QR Code within the frame</string>
+    <string name="SaldoGoPay">Rp7.110</string>
+    <string name="Points">Points</string>
+    <string name="Rewards">Rewards</string>
+    <string name="Saldo">Saldo</string>
+    <string name="payment_gopay_description">Anda dapat melakukan pembayaran dengan GoPay, Pastikan saldo GoPay anda mencukupi</string>
+    <string name="select_file">Select File</string>
+    <string name="numberOfPoint">500</string>
+    <string name="numberOfRewards">100</string>
+    <string name="EditProfile">Edit Profile</string>
 </resources>

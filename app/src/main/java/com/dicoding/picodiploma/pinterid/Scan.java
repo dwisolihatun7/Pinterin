@@ -1,10 +1,10 @@
 package com.dicoding.picodiploma.pinterid;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-public class Scan extends AppCompatActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Scan extends AppCompatActivity{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

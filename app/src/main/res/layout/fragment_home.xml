@@ -58,6 +58,7 @@
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
                     android:clickable="true"
+                    app:cardCornerRadius="10dp"
                     android:foreground="?android:attr/selectableItemBackground">
 
                     <LinearLayout
@@ -104,6 +105,7 @@
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
                     android:clickable="true"
+                    app:cardCornerRadius="10dp"
                     android:foreground="?android:attr/selectableItemBackground">
 
                     <LinearLayout
@@ -157,6 +159,7 @@
                     android:layout_width="160dp"
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
+                    app:cardCornerRadius="10dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     android:longClickable="true">
 
@@ -204,6 +207,7 @@
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
                     android:clickable="true"
+                    app:cardCornerRadius="10dp"
                     android:foreground="?android:attr/selectableItemBackground">
 
                     <LinearLayout
@@ -259,6 +263,7 @@
                 android:layout_height="190dp"
                 android:layout_margin="10dp"
                 android:clickable="true"
+                    app:cardCornerRadius="10dp"
                 android:foreground="?android:attr/selectableItemBackground">
 
                 <LinearLayout
@@ -279,7 +284,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
-                        android:text="@string/upload_file"
+                        android:text="@string/select_file"
                         android:textStyle="bold" />
 
                     <View
@@ -305,6 +310,7 @@
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
                     android:clickable="true"
+                    app:cardCornerRadius="10dp"
                     android:foreground="?android:attr/selectableItemBackground">
 
                     <LinearLayout
